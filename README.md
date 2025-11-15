@@ -1,2 +1,2 @@
-# hypervisor-setup
-A repository to help setup my homelab hypervisors
+# README
+An Ansible playbook to setup my homelab servers as hypervisors.
